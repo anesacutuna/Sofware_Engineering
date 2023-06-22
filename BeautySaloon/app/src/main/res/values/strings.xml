@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeautySaloon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_a_visit_easy_fast"><![CDATA[Book a visit easy & fast]]></string>
+</resources>
